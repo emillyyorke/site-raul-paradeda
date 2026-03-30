@@ -1,0 +1,12 @@
+Flask
+Flask-Babel
+Flask-Admin
+Flask-Bcrypt
+Flask-Login
+gunicorn
+bcrypt # Dependência de Flask-Bcrypt
+requests # Se você faz requisições HTTP do backend
+python-slugify # Se você gera slugs
+python-dateutil # Boa para datas, muitas libs a usam
+pytz # Para fusos horários, se for relevante para datas
+PyYAML # Se você usa YAML
