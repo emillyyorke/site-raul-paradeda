@@ -1,6 +1,7 @@
 # 🌐 Site Acadêmico - Professor Raul Benites Paradeda
 
 Uma plataforma web moderna e bilíngue (PT/EN) para o gerenciamento e apresentação do trabalho acadêmico e informações pessoais do Professor Raul Benites Paradeda. O site é focado em **acessibilidade**, **dinamismo de conteúdo** e **responsividade** em diversos dispositivos.
+
 site hospedado em: https://site-raul-paradeda-flask.onrender.com/pt/
 ---
 
